@@ -19,7 +19,7 @@ config: {
       name: 'TANVIR',
       gender: 'MaLe',
       age: '1+',
-      height: '5.11',
+      height: '5.5',
       choise: 'Russian 😞',
       nick: 'Jamai Dak mgi '
     };
