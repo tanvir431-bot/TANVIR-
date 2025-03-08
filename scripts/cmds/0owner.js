@@ -16,7 +16,7 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'TAN VIR',
+      name: 'TA N V IR',
       gender: 'MaLe',
       age: '1+',
       height: '5.5',
