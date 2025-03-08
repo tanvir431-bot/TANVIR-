@@ -35,7 +35,7 @@ module.exports = {
   sendInfo: async function (message) {
     const botName = "NARUTO";
     const botPrefix = "/";
-    const authorName = " TA NV IR";
+    const authorName = "TANVIR";
     const authorFB = "NOPE 🐸";
     const authorInsta = "Shor Mgii 😒";
     const status = "𝗣𝘂𝗿𝗲 𝗦𝗶𝗻𝗴𝗹𝗲";
