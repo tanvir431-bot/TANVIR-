@@ -19,7 +19,7 @@ body: `
 ‣𝐘𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐩𝐫𝐞𝐟𝐢𝐱:/ 
 
 ‣ 𝐀𝐝𝐦𝐢𝐧 
-‣ TANVIR
+‣ TAN VIR
 
 ‣ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 ⓕ
 ‣TA NV IR Bb'z
